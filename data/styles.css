@@ -61,7 +61,11 @@
 }
 .shape {
 }
+.connector {
+}
 .line {
+}
+.arrow {
 }
 .radio_button {
   text-align:left;
@@ -74,15 +78,39 @@
   font-size:14px;
   text-align:left;
 }
+.text_field {
+  color:#000000;
+  text-align:left;
+}
 .horizontal_line {
 }
 .box_2 {
 }
+.text_area {
+  color:#000000;
+  text-align:left;
+}
 .ellipse {
+}
+.image {
+}
+.heading_1 {
+  font-family:'ArialMT', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:32px;
+  text-align:left;
+}
+.heading_2 {
+  font-family:'ArialMT', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:24px;
+  text-align:left;
 }
 .placeholder {
 }
-.text_field {
+.text_field1 {
   font-family:'MicrosoftYaHei', '微软雅黑';
   font-weight:400;
   font-style:normal;
@@ -95,7 +123,7 @@
 }
 .line2 {
 }
-.image {
+.image1 {
   color:#000000;
 }
 .iconfont {
@@ -108,14 +136,14 @@
 .paragraph {
   text-align:left;
 }
-.heading_1 {
+.heading_11 {
   font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';
   font-weight:700;
   font-style:normal;
   font-size:32px;
   text-align:left;
 }
-.heading_2 {
+.heading_21 {
   font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';
   font-weight:700;
   font-style:normal;
@@ -139,10 +167,19 @@
 }
 .box_22 {
 }
-.image1 {
+.image2 {
   color:#000000;
 }
 ._形状1 {
 }
 ._形状2 {
+}
+.icon1 {
+}
+.box_12 {
+}
+.box_13 {
+  font-family:'Roboto-Regular', 'Roboto';
+  font-weight:400;
+  font-style:normal;
 }
