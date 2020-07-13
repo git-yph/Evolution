@@ -74,6 +74,15 @@
 }
 .box_1 {
 }
+._形状 {
+  font-family:'ArialMT', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  color:#333333;
+  text-align:center;
+  line-height:normal;
+}
 .label {
   font-size:14px;
   text-align:left;
@@ -152,7 +161,7 @@
 }
 .icon {
 }
-._形状 {
+._形状1 {
 }
 ._文本段落1 {
   text-align:left;
@@ -170,9 +179,9 @@
 .image2 {
   color:#000000;
 }
-._形状1 {
-}
 ._形状2 {
+}
+._形状3 {
 }
 .icon1 {
 }
@@ -182,4 +191,13 @@
   font-family:'Roboto-Regular', 'Roboto';
   font-weight:400;
   font-style:normal;
+}
+.shape2 {
+  font-family:'ArialMT', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  color:#333333;
+  text-align:center;
+  line-height:normal;
 }
